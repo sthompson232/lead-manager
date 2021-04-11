@@ -8,5 +8,5 @@ export default combineReducers({
     leads,
     errors,
     messages,
-    auth
+    auth,
 });
